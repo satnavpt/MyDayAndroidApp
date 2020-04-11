@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">MyDay</string>
+    <string name="title_todo">Todo</string>
+    <string name="title_forecast">Forecast</string>
+    <string name="title_timetable">Timetable</string>
+    <string name="title_test">Test</string>
+    <string name="title_done">Done</string>
+    <string name="title_new_task">New Task</string>
+    <string name="title_delete">deleteTask</string>
+
+    <string-array name="week">
+        <item> Monday 1</item>
+        <item> Tuesday 1</item>
+        <item> Wednesday 1</item>
+        <item> Thursday 1</item>
+        <item> Friday 1</item>
+        <item> Monday 2</item>
+        <item> Tuesday 2</item>
+        <item> Wednesday 2</item>
+        <item> Thursday 2</item>
+        <item> Friday 2</item>
+    </string-array>
+
+    <string-array name="Monday_1">
+        <item>Maths-G</item>
+        <item>Maths-K</item>
+        <item>CS-M</item>
+        <item>PST</item>
+        <item>Physics-T</item>
+    </string-array>
+
+    <string-array name="Tuesday_1">
+        <item>CS-C</item>
+        <item>PST</item>
+        <item>Physics-T</item>
+        <item>Free</item>
+        <item>Maths-K</item>
+    </string-array>
+
+    <string-array name="Wednesday_1">
+        <item>Free</item>
+        <item>Maths-G</item>
+        <item>Physics-T</item>
+        <item>CS-M</item>
+        <item>Free</item>
+    </string-array>
+
+    <string-array name="Thursday_1">
+        <item>PST</item>
+        <item>Maths-R</item>
+        <item>Free</item>
+        <item>CS-C</item>
+        <item>PST</item>
+    </string-array>
+
+    <string-array name="Friday_1">
+        <item>Physics-T</item>
+        <item>Maths-R</item>
+        <item>PSE</item>
+        <item>Free</item>
+        <item>Free</item>
+    </string-array>
+
+    <string-array name="Monday_2">
+        <item>Maths-K</item>
+        <item>CS-M</item>
+        <item>Free</item>
+        <item>Physics-T</item>
+        <item>Physics-T</item>
+    </string-array>
+
+    <string-array name="Tuesday_2">
+        <item>PST</item>
+        <item>Maths-K</item>
+        <item>PST</item>
+        <item>Physics-T</item>
+        <item>Maths-G</item>
+    </string-array>
+
+    <string-array name="Wednesday_2">
+        <item>Maths-R</item>
+        <item>PST</item>
+        <item>Free</item>
+        <item>CS-M</item>
+        <item>Free</item>
+    </string-array>
+
+    <string-array name="Thursday_2">
+        <item>CS-C</item>
+        <item>Maths-G</item>
+        <item>Maths-R</item>
+        <item>Maths-R</item>
+        <item>Free</item>
+    </string-array>
+
+    <string-array name="Friday_2">
+        <item>Maths-G</item>
+        <item>Free</item>
+        <item>Free</item>
+        <item>Physics-T</item>
+        <item>Maths-G</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>9:05AM - 10:05AM</item>
+        <item>10:10AM - 11:10AM</item>
+        <item>11:35AM - 12:35PM</item>
+        <item>12:40PM - 1:40PM</item>
+        <item>2:30PM - 3:30PM</item>
+    </string-array>
+</resources>
